@@ -1,6 +1,6 @@
 # Version: 0.0.1
 
-FROM ubuntu:14.04
+FROM ubuntu:18.04
 
 MAINTAINER Markos Rendell "markosrendell@gmail.com"
 
